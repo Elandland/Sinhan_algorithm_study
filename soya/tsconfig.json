@@ -1,0 +1,33 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": "src",
+    "sourceMap": true,
+    "target": "ES6",
+    "module": "amd",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "lib": ["ES2016", "dom"],
+    "baseUrl": "./",
+    "typeRoots": ["node_modules/@types"],
+    "types": ["jquery", "jqueryui", "node"],
+    "paths": {
+      "src/*": ["src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist", "build"],
+  "filesGlob": [
+    "./src/**/*.ts",
+    "./test/**/*.ts",
+    "./typings/index.d.ts",
+    "./custom_typings/**/*.d.ts",
+    "./node_modules/@types/**/*.d.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": false
+  }
+}
