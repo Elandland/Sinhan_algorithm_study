@@ -14,7 +14,7 @@
     "lib": ["ES2016", "dom"],
     "baseUrl": "./",
     "typeRoots": ["node_modules/@types"],
-    "types": ["jquery", "jqueryui", "node"],
+    "types": ["node"],
     "paths": {
       "src/*": ["src/*"]
     }

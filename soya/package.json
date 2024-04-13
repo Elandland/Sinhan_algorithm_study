@@ -1,4 +1,14 @@
 {
+  "name": "algorithm_study",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "sh -c 'tsc $1.ts && node $1.js' --"
+  },
+  "config": {
+    "filetype": "ts"
+  },
+  "author": "soyalatte",
   "devDependencies": {
     "@types/node": "20.12.7"
   },

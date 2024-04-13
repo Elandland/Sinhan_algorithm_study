@@ -12,7 +12,7 @@ import * as fs from "fs";
 // const [n, ...input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 
 const [n, m, ...inputArr] = fs
-  .readFileSync("../dummy/input_2602.txt")
+  .readFileSync("./dummy/input_2602.txt")
   .toString()
   .trim()
   .split("\n");
