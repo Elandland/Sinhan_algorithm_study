@@ -1,6 +1,8 @@
 package chansol;
 
-import java.util.*;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 public class boj_2606 {
 
