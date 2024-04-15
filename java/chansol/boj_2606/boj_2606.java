@@ -1,4 +1,4 @@
-package chansol;
+package chansol.boj_2606;
 
 import java.io.IOException;
 import java.util.ArrayList;
