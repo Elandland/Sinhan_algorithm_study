@@ -3,7 +3,7 @@ package chansol.boj_1654;
 import java.io.*;
 import java.util.Scanner;
 public class boj_1654 {
-    public static void main(String[] args){
+    public static void main(String[] args) throws IOException{
         Scanner sc = new Scanner(System.in);
 
         int lan_count = sc.nextInt();
