@@ -24,7 +24,7 @@ public class boj_1654 {
         Arrays.sort(lan);
 
         max = lan[lan.length - 1];        //sort했으니까 제일 마지막 꺼가 제일 큼
-        min = lan[0];
+        min = 0;        //왜 내가 여기다가 lan[0]이걸 했을까 미친놈.
         //자연스럽게 mid를 여기다가 적었었음
 
         max++;      //lan.length가 1일때 max=min인 것을 방지.
@@ -43,12 +43,10 @@ public class boj_1654 {
             else{
                 min = mid+1; //mid+1로
             }
-            System.out.println(mid);
+            System.out.println(answer);
         }
 
 
         System.out.println(min-1);
     }
-
-
 }
