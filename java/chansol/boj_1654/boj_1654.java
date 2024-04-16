@@ -43,7 +43,6 @@ public class boj_1654 {
             else{
                 min = mid+1; //mid+1로
             }
-            System.out.println(answer);
         }
 
 
