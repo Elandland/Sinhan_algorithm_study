@@ -35,7 +35,7 @@ public class boj_11053 {
                         //여기서 이제 중복되는걸 수열로 포함 안하면 됨. ->이건 어케하는지 모르겠음
                         dp[i]=dp[j]+1;
                         //검사하는 애가 연결 될수 있는 애인지 판별 = dp[]의 값이 바로 다음이 됨(바로 다음 연결)
-                        //System.out.println("dp["+i+"]"+"="+dp[i]); 확인용
+                        System.out.println("dp["+i+"]"+"="+dp[i]);
                     }
                 }
 
