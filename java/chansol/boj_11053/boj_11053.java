@@ -1,6 +1,5 @@
 package chansol.boj_11053;
 
-import java.io.*;
 import java.util.*;
 
 public class boj_11053 {
@@ -32,20 +31,27 @@ public class boj_11053 {
             for (int i = 1; i < size; i++) {
                 dp[i] = 1;   //감소 수열이라고 해도 자기자신만을 부분 수열로 잡으면 되니까 최소한 ans =1
                 for (int j = 0; j < i; j++) {       //0부터 자기까지 쭉 조사
-                    if(arr[i]>arr[j]&&dp[i]>=dp[j]){     //자기 보다 작은 수가 있음 and dp[]값이 자기보다 작거나 같음(부분수열을 만족)
-                        //여기서 이제 중복되는걸 수열로 포함 안하면 됨.
-                        dp[i]++;
-                        System.out.println("dp["+i+"]"+"="+dp[i]);
+                    if(arr[i]>arr[j]&&dp[i]<dp[j]+1){     //자기 보다 작은 수가 있음 and dp[]값이 자기보다 작거나 같음(부분수열을 만족)
+                        //여기서 이제 중복되는걸 수열로 포함 안하면 됨. ->이건 어케하는지 모르겠음
+                        dp[i]=dp[j]+1;
+                        //검사하는 애가 연결 될수 있는 애인지 판별 = dp[]의 값이 바로 다음이 됨(바로 다음 연결)
+                        //System.out.println("dp["+i+"]"+"="+dp[i]); 확인용
                     }
                 }
 
             }
         }
+        /*
         for (int l = 0; l < size; l++) {
+
             System.out.printf(dp[l] + "  ");
         }
         System.out.println(" ");
+        */
+        Arrays.sort(dp);
+        answer = dp[size-1];
         System.out.print(answer);
+
     }
 
 }
