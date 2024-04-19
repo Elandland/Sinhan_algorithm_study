@@ -51,7 +51,7 @@ public class boj_11053 {
         Arrays.sort(dp);
         answer = dp[size-1];
         System.out.print(answer);
-
+        //배열 인자 최댓값. 구하는 함수 있는지 찾아보렴 찬솔아
     }
 
 }
