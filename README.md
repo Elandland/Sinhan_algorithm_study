@@ -22,3 +22,12 @@
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/263ff8a2-08b6-4e24-b4cf-c26a7603808c) |                              [1654번: 랜선 자르기](https://www.acmicpc.net/problem/1654)                              |
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/683d0f73-9b7c-4dc4-af50-b7d30be75c8f) |                     [11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                      |
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/3eafae46-3870-44a5-a667-8115a6d473fd) | [2024 KAKAO WINTER INTERNSHIP: 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)) |
+
+### 4월 넷째 주
+
+|                                                     티어(레벨)                                                     |                                                         문제                                                           |
+| :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="badge">                                |                               [14916번: 거스름돈](https://www.acmicpc.net/problem/14916)                               |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"> |                              [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)                               |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [17291번: 새끼치기](https://www.acmicpc.net/problem/17291)                                |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [2805번: 나무 자르기](https://www.acmicpc.net/problem/17291)                              |
