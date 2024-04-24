@@ -30,4 +30,4 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="badge">                                |                               [14916번: 거스름돈](https://www.acmicpc.net/problem/14916)                               |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"> |                              [2579번: 계단 오르기](https://www.acmicpc.net/problem/2579)                               |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [17291번: 새끼치기](https://www.acmicpc.net/problem/17291)                                |
-| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [2805번: 나무 자르기](https://www.acmicpc.net/problem/17291)                              |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)                              |
