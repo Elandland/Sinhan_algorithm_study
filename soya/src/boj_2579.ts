@@ -19,12 +19,13 @@ function solution() {
   let dp: number[][] = Array.from(Array(stairNum), () => new Array());
   // 계단이 한개일때
   if (stairNum == 1) return inputArr[0];
-  console.log(inputArr);
+  if (stairNum == 2) return Number(inputArr[0]) + Number(inputArr[1]);
   // [i][0] -> i번째 계단을 처음 밟음. [i][1] -> i번째 계단이 두번째로 연속해 밟은 계단
   dp[0][0] = Number(inputArr[0]);
   dp[0][1] = 0;
   dp[1][0] = Number(inputArr[1]);
-  dp[1][1] = Number(inputArr[0] + inputArr[1]);
+  // inputArr[0] + inputArr[1] 로 했더니 문자열로 합쳐지는 이슈 발생... ex) 10 + 20 = 1020
+  dp[1][1] = Number(inputArr[0]) + Number(inputArr[1]);
   for (let i = 2; i < stairNum; i++) {
     //첫번째로 밟는 계단일 경우 값 저장
     dp[i][0] = Math.max(dp[i - 2][0], dp[i - 2][1]) + Number(inputArr[i]);
