@@ -12,35 +12,40 @@ import * as fs from "fs";
 // const [n, ...input] = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 
 // 나무수, 원하는 나무길이, 나무들
-let inputArr = ["20", "15", "10", "17"];
-let m = 7;
+// n m
+// 2 3 4 5
+const [n, input] = fs
+  .readFileSync("./dummy/input_2805.txt")
+  .toString()
+  .trim()
+  .split("\n");
+const m = n.trim().split(" ")[1];
+const inputArr = input.trim().split(" ").map(Number);
+
 function solution() {
   const need: number = Number(m);
-  let max: number = 0;
-  for (let i in inputArr) {
-    max = Number(inputArr[i]) > max ? Number(inputArr[i]) : max;
-  }
+  let max: number = inputArr.reduce((acc, cur) => Math.max(acc, cur), 0);
   let min: number = 0;
   let ans: number = max; //초기값을 최대길이로 설정
   while (min <= max) {
     let total_tree_len = 0;
     let pivot = Math.floor((min + max) / 2);
-    for (let i in inputArr) {
-      let cut_tree_len =
-        Number(inputArr[i]) - pivot > 0 ? Number(inputArr[i]) - pivot : 0;
-      total_tree_len += cut_tree_len;
+    for (let tree of inputArr) {
+      if (tree > pivot) {
+        total_tree_len += tree - pivot;
+      }
     }
-
     if (total_tree_len == need) {
       ans = pivot;
       break;
-    } else if (total_tree_len > need) {
-      //충족시 max값을 좀 내려본다.
-      min = pivot;
-      ans = min;
-    } else {
-      // 조건 미충족시 max와 pivot을 내린다.
+    }
+    if (total_tree_len < need) {
+      // 조건 미충족시 max를 내린다.
       max = pivot - 1;
+    } else {
+      //충족시 h를 좀 올려본다.
+      ans = ans > pivot ? ans : pivot;
+      min = pivot + 1;
     }
   }
   return ans;
