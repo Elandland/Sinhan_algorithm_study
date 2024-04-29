@@ -1,48 +1,42 @@
 import java.io.*;
-import java.util.*;
 
-public class Main {
-
-  static int n, k;
-  static int[] arr;
+public class boj_2805 {
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    StringTokenizer st = new StringTokenizer(br.readLine());
+    String[] input = br.readLine().split(" ");
 
-    n = Integer.parseInt(st.nextToken());
-    k = Integer.parseInt(st.nextToken());
+    int k = Integer.parseInt(input[0]);
+    int n = Integer.parseInt(input[1]);
 
-    arr = Arrays.stream(br.readLine().split(" "))
-        .mapToInt(Integer::parseInt).toArray();
+    String[] t = br.readLine().split(" ");
 
-    Arrays.sort(arr);
-
-    int max = arr[n-1];
+    int[] trees = new int[k];
+    int max = 0;
     int min = 0;
+    for (int i = 0; i < k; i++) {
+      trees[i] = Integer.parseInt(t[i]);
+      if (max < trees[i])
+        max = trees[i];
+    }
 
     while (min < max) {
+      int mid = (min + max) / 2;
+      long count = 0;
 
-      int mid = (max + min) / 2;
-      int count = 0;
-
-      for (int i : arr) {
-        if (i < mid) {
+      for (int i = 0; i < k; i++) {
+        if (trees[i] < mid)
           continue;
-        }
 
-        count += (i - mid);
+        count += (trees[i] - mid);
       }
 
-      if (count < k) {
-
-        // 맥스 값을 mid로 낮춰줌
+      if (count < n)
         max = mid;
-      } else {
+      else
         min = mid + 1;
-      }
     }
 
     bw.write(String.valueOf(min-1));
