@@ -7,10 +7,10 @@ public class boj_22953 {
     public static int C;
     public static int K;
     public static int[] arr;     //인덱스번에 있는 요리사가 요리를 하는데에 걸리는 시간.
-    public static long ans= (long)1000000*1000000/10;
+    public static long ans= (long)1000000*1000000;
     private static long binary_search(int k){
-        long min_time = 0;
-        long max_time = (long)1000000*1000000/10;
+        long min_time = 1;
+        long max_time = (long)1000000*1000000;
         long food_cnt;
 
         while (min_time <max_time){
@@ -30,14 +30,13 @@ public class boj_22953 {
 
         }
         ans = min_time;
-        return ans;
+        return ans;        //그래도 얘를 min_time로 해주는게 좋을듯
     }
 
     private static void back_tracking(int depth){
+        ans = Math.min(ans,binary_search(K));        //어차피 binary_search를 뒤에 해서 ㄱㅊ
         if(depth == C){
-            ans = Math.min(ans,binary_search(K));
             return ;
-
         }
         for(int i=0; i<N; i++){
             if(arr[i]>1) {
@@ -82,10 +81,11 @@ public class boj_22953 {
          */
 
 
-     //    이거를 모든 경우의 수에 대해 돌려주면 됨.
+        //    이거를 모든 경우의 수에 대해 돌려주면 됨.
 
 
     }
 
 
 }
+
