@@ -34,9 +34,9 @@
 
 ### 4월 마지막 주
 
-|                                                     티어(레벨)                                                     |                                                         문제                                                           |
-| :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge">                                |                               [22953번: 도도의 음식 준비](https://www.acmicpc.net/problem/22953)                      |
-| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> |                              [2239번: 스도쿠](https://www.acmicpc.net/problem/2293)                               |
-| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge"> |                              [7576번: 토마토](https://www.acmicpc.net/problem/7576)                                |
-| ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/00764617-c986-462e-8308-9e95df6bf7c3) | [2023 KAKAO BLIND RECRUITMENT: 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  |
+|                                                     티어(레벨)                                                     |                                                       문제                                                       |
+| :----------------------------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------------------------:|
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge">                                |                           [22953번: 도도의 음식 준비](https://www.acmicpc.net/problem/22953)                           |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> |                               [2239번: 스도쿠](https://www.acmicpc.net/problem/2239)                               |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge"> |                               [7576번: 토마토](https://www.acmicpc.net/problem/7576)                               |
+| ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/00764617-c986-462e-8308-9e95df6bf7c3) | [2023 KAKAO BLIND RECRUITMENT: 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |
