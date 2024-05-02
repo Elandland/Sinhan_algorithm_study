@@ -5,25 +5,25 @@ public class boj_2239 {
 
 
 
-    private static int[][] solve_sudoku(int[][] sudoku){
-        int [][] check_write = new int[9][9];
+    private static int[][] solve_sudoku(int[][] sudoku) {
+        int[][] check_write = new int[9][9];
 
-        for(int i=0; i<9; i++){
-            for(int j=0; j<9; j++){
-                if(sudoku[i][j]==0) {
+        for (int i = 0; i < 9; i++) {
+            for (int j = 0; j < 9; j++) {
+                if (sudoku[i][j] == 0) {
                     check_write[i][j]++;
-                    // i를3으로 나눈 몫 끼리 한묶음. j를 3으로 나눈 몫끼리 한 묶음 (사각형 판정)
+
                     // i를 0~9 까지 , j를 0에서 9까지 (한줄 판정)
 
 
                 }
             }
-
-
         }
-
-        return sudoku;
+        return check_write;
     }
+
+
+
 
     public static void main(String[] args){
 

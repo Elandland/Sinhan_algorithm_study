@@ -45,7 +45,7 @@ public class boj_22953 {
                 arr[i] +=1;
             }
         }
-        return ;
+
     }
 
     public static void main(String[] args){
