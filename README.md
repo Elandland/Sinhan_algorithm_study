@@ -32,7 +32,7 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [17291번: 새끼치기](https://www.acmicpc.net/problem/17291)                                |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)                              |
 
-### 4월 마지막 주
+### 4월 마지막 주 (~ 5월 첫째 주)
 
 |                                                     티어(레벨)                                                     |                                                       문제                                                       |
 | :----------------------------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------------------------:|
@@ -40,3 +40,12 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> |                               [2239번: 스도쿠](https://www.acmicpc.net/problem/2239)                               |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge"> |                               [7576번: 토마토](https://www.acmicpc.net/problem/7576)                               |
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/00764617-c986-462e-8308-9e95df6bf7c3) | [2023 KAKAO BLIND RECRUITMENT: 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |
+
+### 5월 둘째 주
+
+|                                        티어(레벨)                                     |                                  문제                             |
+| :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
+| <P>Lv. 1</P> | [2020 카카오 인턴십: 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> | [4963번: 섬의 개수](https://www.acmicpc.net/problem/4963) |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="badge"> | [14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| <P>Lv. 2</P> | [2022 KAKAO TECH INTERNSHIP: 두 큐 합 길게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
