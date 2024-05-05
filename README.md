@@ -43,9 +43,9 @@
 
 ### 5월 둘째 주
 
-|                                        티어(레벨)                                     |                                  문제                             |
-| :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <P>Lv. 1</P> | [2020 카카오 인턴십: 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |
-| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> | [4963번: 섬의 개수](https://www.acmicpc.net/problem/4963) |
-| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="badge"> | [14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+|                                        티어(레벨)                                     |                                                      문제                                                      |
+| :-----------------------------------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------:|
+| <P>Lv. 1</P> |           [2020 카카오 인턴십: 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)           |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                             [4963번: 섬의 개수](https://www.acmicpc.net/problem/4963)                             |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="badge"> |                          [14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                           |
 | <P>Lv. 2</P> | [2022 KAKAO TECH INTERNSHIP: 두 큐 합 길게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
