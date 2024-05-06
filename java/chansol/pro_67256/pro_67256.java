@@ -11,11 +11,11 @@ class pro_67256 {
         int righthand = 12;
 
         for(int i=0; i<num_len; i++){
-            if(numbers[i]==1 || numbers[i]==4 || numbers[i]==7){
+            if(numbers[i]==1 || numbers[i]==4 || numbers[i]==7){                //굳이 수정하자면 numbers[i]%3==1로 줄일 수 있긴함.
                 answer+= "L";
                 lefthand = numbers[i];
             }
-            else if(numbers[i] ==3 || numbers[i]==6 || numbers[i] == 9){
+            else if(numbers[i] ==3 || numbers[i]==6 || numbers[i] == 9){            //얘도 나머지 0으로
                 righthand  = numbers[i];
                 answer += "R";
 
