@@ -27,6 +27,8 @@ public class boj_7576 {
 
         while (!q.isEmpty()) {
 
+            oneday_tomato = 0;
+
             int size = q.size();        //큐 사이즈
             for(int k=0; k<size; k++) {
                 int[] locate = q.poll();
@@ -68,7 +70,7 @@ public class boj_7576 {
                 }
             }
 
-            if (oneday_tomato > 0) {
+            if (oneday_tomato > 0) {        //얘는 for문 밖에
                 min_date++;
             }
         }
@@ -107,12 +109,7 @@ public class boj_7576 {
             }
         }
         if(check==(M*N)) {
-            if(min_date>0) {
-                System.out.println(min_date - 1);
-            }
-            else{
-                System.out.println(min_date );
-            }
+                System.out.println(min_date);
         }
 
         else
