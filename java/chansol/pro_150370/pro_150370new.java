@@ -55,7 +55,6 @@ public class pro_150370new {
             if(privacies_date[i]<=0){
                 answer[idx] = i+1;
                 idx++;
-                continue;
             }
 
         }
