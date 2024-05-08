@@ -44,12 +44,12 @@ function getLandNum(
       if (!visitArr[i][j] && landMap[i][j] === 1) {
         stack.push({ w: j, h: i });
         visitArr[i][j] = true;
-        bfs();
+        dfs();
         landCnt++;
       }
     }
   }
-  function bfs() {
+  function dfs() {
     let dh: number[] = [0, 0, 1, 1, 1, -1, -1, -1];
     let dw: number[] = [1, -1, 0, 1, -1, 0, 1, -1];
     while (stack.length > 0) {
