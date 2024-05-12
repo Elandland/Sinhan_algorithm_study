@@ -49,3 +49,12 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                             [4963번: 섬의 개수](https://www.acmicpc.net/problem/4963)                             |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="badge"> |                          [14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                           |
 | <P>Lv. 2</P> | [2022 KAKAO TECH INTERNSHIP: 두 큐 합 길게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
+
+### 5월 둘째 주
+
+|  티어(레벨)  |                                                       문제                                                             |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 1</P> | [2022 KAKAO TECH INTERNSHIP: 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)     |
+| <P>Lv. 1</P> | [2019 KAKAO BLIND RECRUITMENT: 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)               |
+| <P>Lv. 1</P> | [2024 KAKAO WINTER INTERNSHIP: 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  |
+| <P>Lv. 2</P> | [2023 KAKAO BLIND RECRUITMENT: 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |
