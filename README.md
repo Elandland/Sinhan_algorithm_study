@@ -50,7 +50,7 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="badge"> |                          [14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                           |
 | <P>Lv. 2</P> | [2022 KAKAO TECH INTERNSHIP: 두 큐 합 길게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
 
-### 5월 둘째 주
+### 5월 셋째 주
 
 |  티어(레벨)  |                                                       문제                                                             |
 | :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
