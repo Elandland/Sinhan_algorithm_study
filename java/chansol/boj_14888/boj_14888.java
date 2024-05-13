@@ -7,7 +7,6 @@ public class boj_14888 {
     static int N;
     static int MAX=-1000000000;         //최소 -10억
     static int MIN=1000000000;          //최대 10억
-    static int value =0;
     static int[] num;
     static int[] cal;
     public static void main(String[] args) {
