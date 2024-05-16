@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ppp {
+public class pro_150368 {
 
   // 할인률이 10, 20, 30, 40으로 정해져 있으니
   // 할인률 적용한 것을 재귀로 다 계산해보면 될듯...?
