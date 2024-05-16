@@ -18,6 +18,9 @@ public class pro_150368 {
   }
 
   static private void dfs(int[][] users, int[] emoticons, int[] rate, int depth) {
+
+    // 이모티콘 개수 만큼 depth가 차면
+    // 계산을 하는 함수 실행
     if (depth == rate.length) {
       calculation(users, emoticons, rate);
       return;
@@ -28,6 +31,7 @@ public class pro_150368 {
       rate[depth] = i;
       dfs(users, emoticons, rate, depth+1);
 
+      // 굳이 이렇게 값을 되돌려 주면서 탐색을 할 필요가 없었음...
       // 이전 코드
 //      for (int j = 0; j < rate.length; j++) {
 //        int r = rate[j];
@@ -42,10 +46,11 @@ public class pro_150368 {
 
     int sub = 0, profit = 0;
 
-    for (int[] user : users) {
+    O: for (int[] user : users) {
 
       int sum = 0;
 
+      // 사용자의 할인율, 금액 커트라인? 을 받음
       int userRate = user[0];
       int cutLine = user[1];
 
@@ -53,23 +58,21 @@ public class pro_150368 {
 
         if (userRate <= rate[i]) {
 
-          // a - ((a/100) * 40)
-
           sum += (emoticons[i] - ((emoticons[i]/100) * rate[i]));
-          // System.out.println(userRate + " / " + sum + " / " + rate[i] + " / " + emoticons[i]);
+
+          // 만약 한 사용자의 각 이모티콘 계산의 합이 커트라인 이상이면
+          // 가입자를 올리고 반복문 continue로 탈출
+          if (cutLine <= sum) {
+            sub++;
+            continue O;
+          }
         }
       }
 
-      System.out.println(userRate + " / " + "cutLine = " + cutLine + " / sum = " + sum);
-
-      if (cutLine <= sum) {
-        sub++;
-      } else {
-        profit += sum;
-      }
+      profit += sum;
     }
 
-    // 리턴 값 갱신
+    // 리턴(결과) 값 갱신
     if (subscriber < sub) {
       subscriber = sub;
       maxProfit = profit;
