@@ -14,7 +14,7 @@
 
 화이팅~~~~
 
-### 4월 셋째 주
+### 4월 둘째 주
 
 |                                                     티어(레벨)                                                     |                                                         문제                                                          |
 | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -23,7 +23,7 @@
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/683d0f73-9b7c-4dc4-af50-b7d30be75c8f) |                     [11053번: 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)                      |
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/3eafae46-3870-44a5-a667-8115a6d473fd) | [2024 KAKAO WINTER INTERNSHIP: 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)) |
 
-### 4월 넷째 주
+### 4월 셋째 주
 
 |                                                     티어(레벨)                                                     |                                                         문제                                                           |
 | :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
@@ -32,7 +32,7 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [17291번: 새끼치기](https://www.acmicpc.net/problem/17291)                                |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" alt="badge"> |                              [2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)                              |
 
-### 4월 마지막 주 (~ 5월 첫째 주)
+### 4월 넷째 주
 
 |                                                     티어(레벨)                                                     |                                                       문제                                                       |
 | :----------------------------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------------------------:|
@@ -41,7 +41,7 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge"> |                               [7576번: 토마토](https://www.acmicpc.net/problem/7576)                               |
 | ![image](https://github.com/Elandland/Sinhan_algorithm_study/assets/81346079/00764617-c986-462e-8308-9e95df6bf7c3) | [2023 KAKAO BLIND RECRUITMENT: 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) |
 
-### 5월 둘째 주
+### 5월 첫째 주
 
 |                                        티어(레벨)                                     |                                                      문제                                                      |
 | :-----------------------------------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------:|
@@ -50,7 +50,7 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="badge"> |                          [14888번: 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                           |
 | <P>Lv. 2</P> | [2022 KAKAO TECH INTERNSHIP: 두 큐 합 길게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
 
-### 5월 셋째 주
+### 5월 둘째 주
 
 |  티어(레벨)  |                                                       문제                                                             |
 | :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
@@ -58,3 +58,11 @@
 | <P>Lv. 1</P> | [2019 KAKAO BLIND RECRUITMENT: 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)               |
 | <P>Lv. 1</P> | [2024 KAKAO WINTER INTERNSHIP: 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712)  |
 | <P>Lv. 2</P> | [2023 KAKAO BLIND RECRUITMENT: 이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)    |
+
+### 5월 셋째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 2</P> | [Summer/Winter Coding(2019): 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)     |
+| <P>Lv. 1</P> | [2018 KAKAO BLIND RECRUITMENT: [1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)               |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"> | [15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)  |
