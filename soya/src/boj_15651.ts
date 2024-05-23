@@ -21,9 +21,10 @@ function solution() {
   let n = Number(input[0]); //1~N
   let m = Number(input[1]); //M 개
   let arr = [];
+  let ans = "";
   function recursion(dept) {
     if (dept >= m) {
-      console.log(arr.toString().replace(/,/g, " "));
+      ans = ans + arr.toString().replace(/,/g, " ") + "\n";
       return;
     }
     for (var i = 1; i <= n; i++) {
@@ -33,5 +34,6 @@ function solution() {
     }
   }
   recursion(0);
+  console.log(ans);
 }
 solution();
