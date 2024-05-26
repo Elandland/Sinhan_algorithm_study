@@ -67,3 +67,10 @@
 | <P>Lv. 1</P> | [2018 KAKAO BLIND RECRUITMENT: [1차] 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)               |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"> | [15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)  |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"> | [15651번: N과 M (3)](https://www.acmicpc.net/problem/15651)  |
+
+### 5월 넷째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 1</P> | [해시: 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)     |
+| <P>Lv. 1</P> | [해시: 완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)               |
