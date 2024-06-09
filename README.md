@@ -83,3 +83,10 @@
 | <P>Lv. 2</P> | [2022 KAKAO BLIND RECRUITMENT: 주차 요금 계산 (92341)](https://school.programmers.co.kr/learn/courses/30/lessons/92341)               |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="badge"> | [1459번: 걷기](https://www.acmicpc.net/problem/1459)  |
 | <P>Lv. 2</P> | [연습문제: 요격 시스템 (181188)](https://school.programmers.co.kr/learn/courses/30/lessons/181188)  |
+
+### 6월 둘째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 1</P> | [ 같은 숫자는 싫어 (12906)](https://school.programmers.co.kr/learn/courses/30/lessons/12906)    |
+| <P>Lv. 2</P> | [연습문제: 소수 찾기 (42839)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)  |
