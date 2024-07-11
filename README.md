@@ -96,11 +96,11 @@
 |  티어(레벨)  |                                                     문제                                                               |
 | :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
 | <P>Lv. 2</P> | [연습문제: 광물 캐기 (172927)](https://school.programmers.co.kr/learn/courses/30/lessons/172927)    |
-| <P>Lv. 2</P> | [연습문제: 당구 게임 (169198)](https://school.programmers.co.kr/learn/courses/30/lessons/169198)  |
+| <P>Lv. 2</P> | [연습문제: 당구 연습 (169198)](https://school.programmers.co.kr/learn/courses/30/lessons/169198)  |
 
 ### 7월 첫째 주
 
 |  티어(레벨)  |                                                     문제                                                               |
 | :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
-| <P>Lv. 2</P> | [해시: 의상 (42885)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  |
-| <P>Lv. 2</P> | [탐욕법(Greedy): 구명보트 (42578)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)    |
+| <P>Lv. 2</P> | [해시: 의상 (42578)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)  |
+| <P>Lv. 2</P> | [탐욕법(Greedy): 구명보트 (42885)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)    |
