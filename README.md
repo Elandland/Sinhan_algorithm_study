@@ -104,3 +104,10 @@
 | :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
 | <P>Lv. 2</P> | [해시: 의상 (42578)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)  |
 | <P>Lv. 2</P> | [탐욕법(Greedy): 구명보트 (42885)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)    |
+
+### 7월 둘째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :----------: |:-----------------------------------------------------------------:|
+| <P>Lv. 3</P> | [해시: 베스트앨범 (42579)](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |
+| <P>Lv. 2</P> | [스택/큐: 주식가격 (42584)](https://school.programmers.co.kr/learn/courses/30/lessons/42584)    |
