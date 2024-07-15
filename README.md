@@ -111,3 +111,4 @@
 | :----------: |:-----------------------------------------------------------------:|
 | <P>Lv. 3</P> | [해시: 베스트앨범 (42579)](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |
 | <P>Lv. 2</P> | [스택/큐: 주식가격 (42584)](https://school.programmers.co.kr/learn/courses/30/lessons/42584)    |
+| <P>Lv. 2</P> | [깊이/너비 우선 탐색(DFS/BFS): 타겟 넘버 (43165)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
