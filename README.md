@@ -119,3 +119,10 @@
 | :----------: |:-----------------------------------------------------------------:|
 | <P>Lv. 2</P> | [완전탐색: 전력망을 둘로 나누기 (86971)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)  |
 | <P>Lv. 2</P> | [완전탐색: 피로도 (87946)](https://school.programmers.co.kr/learn/courses/30/lessons/87946)    |
+
+### 7월 넷째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :----------: |:-----------------------------------------------------------------:|
+| <P>Lv. 2</P> | [탐욕법(Greedy): 조이스틱 (42860)](https://school.programmers.co.kr/learn/courses/30/lessons/42860)  |
+| <P>Lv. 2</P> | [PCCP 기출문제: 석유 시추 (250136)](https://school.programmers.co.kr/learn/courses/30/lessons/250136)    |
