@@ -132,3 +132,4 @@
 |  티어(레벨)  |                                 문제                                |         비고        |
 | :----------: |:-----------------------------------------------------------------:|:--------------------:|
 | <P>Lv. 2</P> | [2018 KAKAO BLIND RECRUITMENT: [1차] 캐시 (17680)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  |    jody816    |
+| <P>Lv. 2</P> | [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |    soyalattee    |
