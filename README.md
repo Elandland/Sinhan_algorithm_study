@@ -122,7 +122,13 @@
 
 ### 7월 넷째 주
 
-|  티어(레벨)  |                                                     문제                                                               |
+|  티어(레벨)  |                                                     문제                                  |
 | :----------: |:-----------------------------------------------------------------:|
 | <P>Lv. 2</P> | [탐욕법(Greedy): 조이스틱 (42860)](https://school.programmers.co.kr/learn/courses/30/lessons/42860)  |
 | <P>Lv. 2</P> | [PCCP 기출문제: 석유 시추 (250136)](https://school.programmers.co.kr/learn/courses/30/lessons/250136)    |
+
+### 9월 셋째 주
+
+|  티어(레벨)  |                                 문제                                |         비고        |
+| :----------: |:-----------------------------------------------------------------:|:--------------------:|
+| <P>Lv. 2</P> | [2018 KAKAO BLIND RECRUITMENT: [1차] 캐시 (17680)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  |    jody816    |
