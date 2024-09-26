@@ -134,3 +134,9 @@
 | <P>Lv. 2</P> | [2018 KAKAO BLIND RECRUITMENT: [1차] 캐시 (17680)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  |    |  ✔️  |  ✔️  |
 | <P>Lv. 2</P> | [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |  ✔️  |  ✔️  |    |
 | <P>Lv. 2</P> | [숫자 변환하기 (154538)](https://school.programmers.co.kr/learn/courses/30/lessons/154538)  |    |  ✔️  |  ✔️  |
+
+### 9월 넷째 주
+
+|  티어(레벨)  |                                 문제                                |      soyalattee      |  jody816  |  elandland  |
+| :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> | [9935번: 문자열 폭발](https://www.acmicpc.net/problem/9935)  |    |  ✔️  |    |
