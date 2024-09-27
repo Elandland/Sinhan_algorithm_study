@@ -140,3 +140,4 @@
 |  티어(레벨)  |                                 문제                                |      soyalattee      |  jody816  |  elandland  |
 | :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> | [9935번: 문자열 폭발](https://www.acmicpc.net/problem/9935)  |    |  ✔️  |    |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="badge"> | [1193번: 분수찾기](https://www.acmicpc.net/problem/1193)  |    |  ✔️  |    |
