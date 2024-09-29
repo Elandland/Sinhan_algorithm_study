@@ -141,3 +141,4 @@
 | :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> | [9935번: 문자열 폭발](https://www.acmicpc.net/problem/9935)  |    |  ✔️  |    |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="badge"> | [1193번: 분수찾기](https://www.acmicpc.net/problem/1193)  |    |  ✔️  |    |
+| <P>Lv. 3</P> | [힙(Heap): 이중우선순위큐 (42628)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |    |  ✔️  |    |
