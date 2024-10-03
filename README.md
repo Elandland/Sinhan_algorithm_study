@@ -144,3 +144,71 @@
 | <P>Lv. 3</P> | [힙(Heap): 이중우선순위큐 (42628)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |    |  ✔️  |    |
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge">  | [퇴사 (14501)](https://www.acmicpc.net/problem/14501) |  ✔️  |  ✔️  |    |
 
+### 10월 첫째 주
+
+|  티어(레벨)  |                                 문제                                |      soyalattee      |  jody816  |  elandland  |
+| :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
+| <P>Lv. 2</P> | [완전탐색|  티어(레벨)  |                                                     문제                                                               |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 1</P> | [같은 숫자는 싫어 (12906)](https://school.programmers.co.kr/learn/courses/30/lessons/12906)    |
+| <P>Lv. 2</P> | [연습문제: 소수 찾기 (42839)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)  |
+
+### 6월 다섯째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 2</P> | [연습문제: 광물 캐기 (172927)](https://school.programmers.co.kr/learn/courses/30/lessons/172927)    |
+| <P>Lv. 2</P> | [연습문제: 당구 연습 (169198)](https://school.programmers.co.kr/learn/courses/30/lessons/169198)  |
+
+### 7월 첫째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :--------------------------------------------------------------: |:-----------------------------------------------------------------:|
+| <P>Lv. 2</P> | [해시: 의상 (42578)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)  |
+| <P>Lv. 2</P> | [탐욕법(Greedy): 구명보트 (42885)](https://school.programmers.co.kr/learn/courses/30/lessons/42885)    |
+
+### 7월 둘째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :----------: |:-----------------------------------------------------------------:|
+| <P>Lv. 3</P> | [해시: 베스트앨범 (42579)](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |
+| <P>Lv. 2</P> | [스택/큐: 주식가격 (42584)](https://school.programmers.co.kr/learn/courses/30/lessons/42584)    |
+| <P>Lv. 2</P> | [깊이/너비 우선 탐색(DFS/BFS): 타겟 넘버 (43165)](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |
+
+### 7월 셋째 주
+
+|  티어(레벨)  |                                                     문제                                                               |
+| :----------: |:-----------------------------------------------------------------:|
+| <P>Lv. 2</P> | [완전탐색: 전력망을 둘로 나누기 (86971)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)  |
+| <P>Lv. 2</P> | [완전탐색: 피로도 (87946)](https://school.programmers.co.kr/learn/courses/30/lessons/87946)    |
+
+### 7월 넷째 주
+
+|  티어(레벨)  |                                                     문제                                  |
+| :----------: |:-----------------------------------------------------------------:|
+| <P>Lv. 2</P> | [탐욕법(Greedy): 조이스틱 (42860)](https://school.programmers.co.kr/learn/courses/30/lessons/42860)  |
+| <P>Lv. 2</P> | [PCCP 기출문제: 석유 시추 (250136)](https://school.programmers.co.kr/learn/courses/30/lessons/250136)    |
+
+### 9월 셋째 주
+
+|  티어(레벨)  |                                 문제                                |      soyalattee      |  jody816  |  elandland  |
+| :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
+| <P>Lv. 2</P> | [2018 KAKAO BLIND RECRUITMENT: [1차] 캐시 (17680)](https://school.programmers.co.kr/learn/courses/30/lessons/17680)  |    |  ✔️  |  ✔️  |
+| <P>Lv. 2</P> | [가장 큰 수 ](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |  ✔️  |  ✔️  |    |
+| <P>Lv. 2</P> | [숫자 변환하기 (154538)](https://school.programmers.co.kr/learn/courses/30/lessons/154538)  |    |  ✔️  |  ✔️  |
+
+### 9월 넷째 주
+
+|  티어(레벨)  |                                 문제                                |      soyalattee      |  jody816  |  elandland  |
+| :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="badge"> | [9935번: 문자열 폭발](https://www.acmicpc.net/problem/9935)  |    |  ✔️  |    |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="badge"> | [1193번: 분수찾기](https://www.acmicpc.net/problem/1193)  |    |  ✔️  |    |
+| <P>Lv. 3</P> | [힙(Heap): 이중우선순위큐 (42628)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |    |  ✔️  |    |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge">  | [퇴사 (14501)](https://www.acmicpc.net/problem/14501) |  ✔️  |  ✔️  |    |
+
+### 10월 첫째 주
+
+|  티어(레벨)  |                                 문제                                |      soyalattee      |  jody816  |  elandland  |
+| :----------: |:-----------------------------------------------------------------:|:--------------------:|:----------:|:-----------:|
+| <P>Lv. 2</P> | [완전탐색: 모음사전 (84512)](https://school.programmers.co.kr/learn/courses/30/lessons/84512)  |    |  ✔️  |    |
+| <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" alt="badge"> | [2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |    |  ✔️  |    |
