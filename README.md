@@ -152,3 +152,11 @@
 | <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" alt="badge"> |                 [2206번: 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)                  |           |   ✔️   |           |
 |                                     <P>Lv. 2</P>                                     | [탐욕법(Greedy): 조이스틱 (42860)](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |     ✔    |   ✔️    |           |  
 |   <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" alt="badge">  |                         [빙고(2578)](https://www.acmicpc.net/problem/2578)                       |     ✔    |    ✔️   |           |
+
+
+### 10월 둘째 주
+
+|                                      티어(레벨)                                      |                                                문제                                                 | soyalattee | jody816 | elandland |
+| :----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |  
+|                                     <P>Lv. 2</P>                                     |   [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)  |    ✔️      |       |           |
+
