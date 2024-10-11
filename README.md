@@ -155,7 +155,9 @@
 
 ### 10월 둘째 주
 
-|                                         티어(레벨)                                          |                                            문제                                            | soyalattee | jody816 | elandland |
-| :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |
-|                                        <P>Lv. 2</P>                                         | [점프와 순간이동 (12980)](https://school.programmers.co.kr/learn/courses/30/lessons/12980) |     ✔️     |         |           |
-| <P> <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"></P> |               [백준 : 타노스 (20310)](https://www.acmicpc.net/problem/20310)               |     ✔️     |         |           |
+|                                         티어(레벨)                                          |                                            문제                                                   | soyalattee | jody816 | elandland |
+| :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |
+|                                        <P>Lv. 2</P>                                         |    [점프와 순간이동 (12980)](https://school.programmers.co.kr/learn/courses/30/lessons/12980)     |     ✔️     |    ✔️   |           |
+| <P> <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"></P> |                   [백준 : 타노스 (20310)](https://www.acmicpc.net/problem/20310)                  |     ✔️     |         |           |
+|                                        <P>Lv. 3</P>                                         | [동적계획법: N으로 표현 (42895)](https://school.programmers.co.kr/learn/courses/30/lessons/42895)  |            |    ✔️   |           |
+
