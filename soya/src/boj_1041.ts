@@ -25,14 +25,15 @@ function solution() {
   if (N === 1) {
     let maxFace: number = Math.max(...nums);
     let maxFaceIdx = nums.findIndex((v) => v === maxFace);
-    //젤 큰수 1개 빼고 나머지
-    return nums.reduce((a, c, i) => {
-      if (i !== maxFaceIdx) {
-        return a + c;
+    let sum = 0;
+    for (let i = 0; i < nums.length; i++) {
+      if (i === maxFaceIdx) {
+        continue;
       } else {
-        return a;
+        sum += nums[i];
       }
-    });
+    }
+    return sum;
   }
   // 3면의 조합은 총 7개. 작은거 하나 선택하고
 
@@ -49,19 +50,12 @@ function solution() {
   let smallest3Face: number = Math.min(
     nums[0] + nums[1] + nums[2], //A,B,C
     nums[0] + nums[1] + nums[3], //A,B,D
+    nums[0] + nums[2] + nums[4], // A,C,E
     nums[0] + nums[3] + nums[4], //A.D.E
     nums[1] + nums[2] + nums[5], // B,C,F
     nums[1] + nums[3] + nums[5], // B,D,F
     nums[2] + nums[4] + nums[5], // C.E.F
     nums[3] + nums[4] + nums[5] //D.E.F
-  );
-  console.log(
-    "1면 : ",
-    smallestFace,
-    ", 2면 : ",
-    smallest2Face,
-    "3면 : ",
-    smallest3Face
   );
   //총 면의 개수
   let totalFace = N * N * 5;
