@@ -162,4 +162,8 @@
 |                                        <P>Lv. 3</P>                                         | [동적계획법: N으로 표현 (42895)](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |            |   ✔️    |           |
 |    <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge">     |                    [구현: 주사위 (1041)](https://www.acmicpc.net/problem/1041)                    |     ✔️     |         |           |
 
+### 10월 셋째 주
 
+|                                         티어(레벨)                                          |                                                          문제                                                     | soyalattee | jody816 | elandland |
+| :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |
+|                                        <P>Lv. 2</P>                                         | [Summer/Winter Coding(~2018): 방문 길이 (49994)](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |          |   ✔️    |           |
