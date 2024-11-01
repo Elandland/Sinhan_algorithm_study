@@ -178,4 +178,5 @@
 
 |                                         티어(레벨)                                          |                                                          문제                                                     | soyalattee | jody816 | elandland |
 | :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |
-|                                        <P>Lv. 3</P>                                         | [동적계획법(Dynamic Programming): 등굣길 (42898)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |          |   ✔️    |           |
+|                                        <P>Lv. 3</P>                                         | [동적계획법(Dynamic Programming): 등굣길 (42898)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |            |   ✔️   |           |
+|                                        <P>Lv. 3</P>                                         | [탐욕법(Greedy): 단속카메라 (42884)](https://school.programmers.co.kr/learn/courses/30/lessons/42884)              |            |   ✔️   |           |
