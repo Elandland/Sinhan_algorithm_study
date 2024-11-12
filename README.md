@@ -157,10 +157,10 @@
 
 |                                         티어(레벨)                                          |                                               문제                                                | soyalattee | jody816 | elandland |
 | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |
-|                                        <P>Lv. 2</P>                                         |    [점프와 순간이동 (12980)](https://school.programmers.co.kr/learn/courses/30/lessons/12980)     |     ✔️     |   ✔️    |           |
-| <P> <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"></P> |                  [백준 : 타노스 (20310)](https://www.acmicpc.net/problem/20310)                   |     ✔️     |         |           |
-|                                        <P>Lv. 3</P>                                         | [동적계획법: N으로 표현 (42895)](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |            |   ✔️    |           |
-|    <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge">     |                    [구현: 주사위 (1041)](https://www.acmicpc.net/problem/1041)                    |     ✔️     |         |           |
+|                                        <P>Lv. 2</P>                                         |    [점프와 순간이동 (12980)](https://school.programmers.co.kr/learn/courses/30/lessons/12980)      |     ✔️     |   ✔️    |          |
+| <P> <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" alt="badge"></P> |                  [백준: 타노스 (20310)](https://www.acmicpc.net/problem/20310)                     |     ✔️     |         |           |
+|                                        <P>Lv. 3</P>                                         | [동적계획법: N으로 표현 (42895)](https://school.programmers.co.kr/learn/courses/30/lessons/42895)   |            |   ✔️    |           |
+|    <img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="badge">     |                    [구현: 주사위 (1041)](https://www.acmicpc.net/problem/1041)                     |     ✔️     |         |           |
 
 ### 10월 셋째 주
 
@@ -181,3 +181,9 @@
 |                                        <P>Lv. 3</P>                                         | [동적계획법(Dynamic Programming): 등굣길 (42898)](https://school.programmers.co.kr/learn/courses/30/lessons/42898) |            |   ✔️   |           |
 |                                        <P>Lv. 3</P>                                         | [탐욕법(Greedy): 단속카메라 (42884)](https://school.programmers.co.kr/learn/courses/30/lessons/42884)              |            |   ✔️   |           |
 |                                        <P>Lv. 3</P>                                         | [Summer/Winter Coding(~2018): 기지국 설치 (12979)](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|            |   ✔️   |           |
+
+### 11월 첫째 주
+
+|                                         티어(레벨)                                          |                                                          문제                                                     | soyalattee | jody816 | elandland |
+| :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------: | :-----: | :-------: |
+| <P><img width=20px src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" alt="badge"></P>  |              [백준: 교환 (1039)](https://www.acmicpc.net/problem/1039)              |            |   ✔️   |           |
